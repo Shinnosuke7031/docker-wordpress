@@ -1,1 +1,1 @@
-This is B.
+This is A after "git pull" from B changes.
