@@ -61,7 +61,7 @@
 					'<a href="' . esc_url( __( 'https://wordpress.org/', 'twentytwentyone' ) ) . '">WordPress</a>'
 				);
 				?> -->
-				<a href=<?php echo get_page_link( 26 );?>>お問い合わせ</a>
+				<a href=<?php echo get_page_link( 10 );?>>お問い合わせ</a>
 			</div><!-- .powered-by -->
 
 		</div><!-- .site-info -->
