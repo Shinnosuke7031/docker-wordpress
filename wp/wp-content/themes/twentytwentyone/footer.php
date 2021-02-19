@@ -54,13 +54,14 @@
 				<?php endif; ?>
 			</div><!-- .site-name -->
 			<div class="powered-by">
-				<?php
+				<!-- <?php
 				printf(
 					/* translators: %s: WordPress. */
 					esc_html__( 'Proudly powered by %s.', 'twentytwentyone' ),
 					'<a href="' . esc_url( __( 'https://wordpress.org/', 'twentytwentyone' ) ) . '">WordPress</a>'
 				);
-				?>
+				?> -->
+				<a href=<?php echo get_page_link( 26 );?>>お問い合わせ</a>
 			</div><!-- .powered-by -->
 
 		</div><!-- .site-info -->
